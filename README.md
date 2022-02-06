@@ -5,3 +5,5 @@ Ce chronomètre permet l’entraînement des archers à la compétition. Le chro
 Les fichiers pour le code du chronomètre ainsi que la télécomande sont fournis.
 Le modèle 3D pour le télécommande est également fourni au format Fusion 360.
 Les plans électroniques pour la carte du chronomètre et celle de la télécommande sont fournis.
+
+Coût d'environs 200 euros pour la partie électronique.
